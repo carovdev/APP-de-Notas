@@ -1,0 +1,18 @@
+[
+   {
+      "titulo": "Tp terminado",
+      "estado": "En proceso"
+   },
+   {
+      "titulo": "Actividades en Playground",
+      "estado": "Pendiente"
+   },
+   {
+      "titulo": "Enviar TP",
+      "estado": "Listo"
+   },
+   {
+      "titulo": "Nueva Tarea",
+      "estado": "pendiente"
+   }
+]
